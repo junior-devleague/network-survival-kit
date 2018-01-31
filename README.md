@@ -5,6 +5,10 @@
     
 ## Your Task:
  You are to use your knowledge of networking and scripting to build basic networking tools in order to complete your job. Below are your details if you choose to accept.
+ 
+## Setup:
+ - Each tool will have its own python file.
+ - Tools must be coded using pyton 3.6.
     
 ## Required Tooling/Specs
 

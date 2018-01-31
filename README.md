@@ -31,11 +31,6 @@
   - It will take stndin from user.
   - It will return a report in format of: "Company Name, Address".
   
-**6. Data Collector** - This tool will automate transfering of data for all your findings.
-  - This tool will make use of the open() method.
-  - It will be able to save your findings to a standard .txt file when invoked with appropriate formatting in a report format.
-  - HINT: You will need to store results of other tools for this tool to work.
-  
 ### Resources
  - Python Functons https://www.learnpython.org/en/Functions
  - Python Loops & Conditionals http://www.openbookproject.net/books/bpp4awd/ch04.html

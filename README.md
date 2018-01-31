@@ -8,7 +8,7 @@
  
 ## Setup:
  - Each tool will have its own python file.
- - Tools must be coded using pyton 3.6.
+ - Tools must be coded using python 3.6.
     
 ## Required Tooling/Specs
 
